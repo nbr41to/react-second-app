@@ -8,7 +8,7 @@ React で作った第 2 作
 
 src: [https://github.com/nbr41to/react-second-app/](https://github.com/nbr41to/react-first-app/)
 
-pre: [http://nbr41to.github.io/react-second-app/](http://nbr41to.github.io/react-second-app/)
+pre: [https://nbr41to.github.io/react-second-app/](http://nbr41to.github.io/react-second-app/)
 
 ## 実装した機能
 
